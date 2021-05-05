@@ -1,6 +1,8 @@
 # hide-tabs-chrome
 A chrome/chromium extension that opens a page in a new window with no tab bar and toolbar, in order to give the browser a more minimalistic and compact look.
 
+![example](imgs/example.png)
+
 Code inspiration: https://superuser.com/questions/565976/how-to-hide-the-tab-bar-in-google-chrome/638813
 
 ## Usage
